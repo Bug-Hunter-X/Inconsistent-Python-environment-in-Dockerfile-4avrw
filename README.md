@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Dockerfiles: using an outdated base image and not specifying Python version. This can lead to unpredictable behavior. The solution shows how to use a specific base image and Python version for consistency.
